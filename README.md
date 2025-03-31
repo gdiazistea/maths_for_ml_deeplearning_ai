@@ -5,7 +5,7 @@ Este repositorio contiene apuntes, prácticas y material de los cursos de la Esp
   2. Calculus for Machine Learning and Data Science
   3. Probability & Statistics for Machine Learning & Data Science
 
-![Maths for Machine Learning](maths_for_ml.png)
+![Maths for Machine Learning](maths_ml.jpg)
 
 ## Contenidos
 
