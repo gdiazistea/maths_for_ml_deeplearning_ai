@@ -1,10 +1,9 @@
 # Mathematics for Machine Learning and Data Science Specialization - DeepLearning.AI
 
-Este repositorio contiene apuntes, prácticas y material de los cursos
+Este repositorio contiene apuntes, prácticas y material de los cursos de la Especializacion en Matemáticas para Data Science & Machine Learning dictado por Deep Learning AI. 
   1. Linear Algebra for Machine Learning and Data Science
   2. Calculus for Machine Learning and Data Science
   3. Probability & Statistics for Machine Learning & Data Science
-de la Especializacion en Matemáticas para Data Science & Machine Learning dictado por Deep Learning AI. 
 
 ![Maths for Machine Learning](maths_ml.jpg)
 
@@ -38,12 +37,11 @@ de la Especializacion en Matemáticas para Data Science & Machine Learning dicta
 - Python 3.x
 - Numpy, Pandas, Scikit-learn
 - TensorFlow / PyTorch
-- OpenCV, Matplotlib, Seaborn
 
 ## Instalación
 ```bash
 # Clonar el repositorio
-git clone https://github.com/gdiazistea/ml_educacionit.git
+git clone https://github.com/gdiazistea/maths_for_ml_deeplearning_ai.git
 cd repo-maths_for_machinelearning
 
 # Crear un entorno virtual e instalar dependencias
